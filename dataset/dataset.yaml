@@ -1,0 +1,6 @@
+train: C:/Users/Gunarakulan/Desktop/project-101/dataset/train/images
+val: C:/Users/Gunarakulan/Desktop/project-101/dataset/valid/images
+test: C:/Users/Gunarakulan/Desktop/project-101/dataset/test/images
+
+nc: 1  # Number of classes
+names: ["elephant"]
